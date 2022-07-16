@@ -1,7 +1,7 @@
 ## Images
 Login Screen            |  Signup Screen              |  OTP Screen
 :----------------------:|:---------------------------:|:--------------------------:
-![](./login.jpg)        |  ![](./signup.jpg)          | (./otp.jpg)
+![](./login.jpg)        |  ![](./signup.jpg)          | ![](./otp.jpg)
 
 Verified Screen         |  Drawer Screen              |  Create Readlist
 :----------------------:|:---------------------------:|:--------------------------:
