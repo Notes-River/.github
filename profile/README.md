@@ -19,7 +19,7 @@ Create Notes Screen     |  Home Screen                |  Profile Screen
 
 ## DOWNLOAD && TEST (apk)
 
-You can download and test it from [here](./app-release.apk)
+You can download and test it from [here](./app-release.apk "download" )
 
 
 ## Api Documentation
