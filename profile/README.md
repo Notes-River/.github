@@ -1,3 +1,8 @@
+## DOWNLOAD && TEST (apk)
+
+You can download and test it from [here](http://utils.myportfolio.club/app-release.apk)
+
+
 ## Images
 Login Screen            |  Signup Screen              |  OTP Screen
 :----------------------:|:---------------------------:|:--------------------------:
@@ -16,10 +21,6 @@ Create Notes Screen     |  Home Screen                |  Profile Screen
 ```bash 
     This project build using nodejs for backend and flutter for frontend
 ```
-
-## DOWNLOAD && TEST (apk)
-
-You can download and test it from [here](./app-release.apk "download" )
 
 
 ## Api Documentation
