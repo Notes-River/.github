@@ -17,5 +17,10 @@ Create Notes Screen     |  Home Screen                |  Profile Screen
     This project build using nodejs for backend and flutter for frontend
 ```
 
+## DOWNLOAD && TEST (apk)
+
+You can download and test it from [here](./app-release.apk)
+
+
 ## Api Documentation
 see documentation [here](https://documenter.getpostman.com/view/11583515/UzQvsQjs)
